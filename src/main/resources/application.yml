@@ -1,0 +1,7 @@
+anya-tech-ui:
+    url: http://localhost:4200
+server:
+    port: 8081
+spring:
+    application:
+        name: api_gateway_service
